@@ -16,7 +16,7 @@
         <activity
             android:name="com.fichadd.FichaActivity"
             android:label="@string/app_name" 
-            android:configChanges="keyboard|keyboardHidden|orientation">
+            android:configChanges="orientation|screenSize">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
